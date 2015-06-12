@@ -5,12 +5,14 @@ body{
     height: 100%;
     margin: 0;
 
-    font-family: 'Lato', sans-serif;
-    color:white;
-
-    /*background: linear-gradient(to bottom, #0c1e78, #3aba8c);*/
     background: linear-gradient(to bottom, #212121, #5b5b5b);
     background-repeat: repeat;
+
+    font-weight: 200;
+    line-height: 2;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    color:white;
 }
 
 .body-container {
@@ -18,14 +20,9 @@ body{
     height: 100%;
     min-height:500px;
     margin: 0 auto -130px;
+
     padding-top:20px;
     background:  url("images/tile.png");
-
-    text-align: center;
-}
-
-.banner {
-    /*text-align: left;*/
 }
 
 .title{
@@ -36,42 +33,32 @@ body{
 }
 
 .banner-label {
-    font-weight: 100;
     font-size: 20px;
-    line-height: 2;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.66);
 }
 
 .footer{
     height:130px;
     width: 100%;
     bottom: 0px;
-    text-align: center;
     background-color: #212121;
 
     padding-top:20px;
 
     color: lightgray;
-    font-weight: 100;
     font-size: 14px;
-    line-height: 2;
-
-}
-
-.duedate {
-        text-align: center;
-        font-weight: 100;
 }
 
 .date-item {
-        padding: 10px 0 10px;
-        background: rgba(0,0,0,0.5);
+    padding: 10px 0 10px;
+    background: rgba(0,0,0,0.5);
 }
 
 .date-label {
     margin-top: 10px;
     font-size: 14px;
-
 }
+
 .date-no {
     font-size: 40px;
     line-height: 1;
