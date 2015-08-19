@@ -16,7 +16,7 @@ Siobhan still needs to report back on whether getting the psyche labs will be po
 
 ### Heuristic Evaluation
 
-Reported that Bryan Davies along with supervisor Brian and James had completed the evaluation. The outstanding evaluations were Steven and Siobhan evaluating each others and Duke evaluating. James noted that James has to do paper refactoring, so it might be worth getting someone else.
+Reported that Bryan Davies along with supervisor Brian and James had completed the evaluation. The outstanding evaluations were Steven and Siobhan evaluating each others and Duke evaluating both. James noted that Duke has to do paper refactoring, so it might be worth getting someone else.
 
 ### Stats Consultancy
 
@@ -32,7 +32,7 @@ Steven suggested that if participant collection is a problem, then he could pivo
 
 Steven queried about when the venues would be confirmed for the pilot. Brian noted that while it would be best to use the venue, the pilot can help troubleshoot everything else for the experiment without it as long as we don't use the data. James agreed, saying that using the venue as little as possible might be best.
 
-After a discussion about timing, it was agreed that it would be best if some pilot experiments had been done by the next meeting. Steven was to contact Siobhan and discuss whether this would be possible with a confirmation before the next meeting. This is to enable experiments starting by the time they are listed in the timeline. 
+After a discussion about timing, it was agreed that it would be best if some pilot experiments had been done by the next meeting. Steven is to contact Siobhan and discuss whether this would be possible with a confirmation before the next meeting. This is to enable experiments starting by the time they are listed in the timeline. 
 
 ## Deliverables
 
