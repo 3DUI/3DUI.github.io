@@ -36,9 +36,9 @@ After a discussion about timing, it was agreed that it would be best if some pil
 
 ## Deliverables
 
-Carried over, Siobhan: pick the questions for presence and send them through
-James (21/08/2015): have confirmed if we can use games lab or not
-Steven (21/08/2015): finished design chapter
-Siobhan (24/08/2015): to have reached out to use the Psyche labs
-Steven (20/08/2015): relay timeline for experiment to Siobhan
-Steven + Siobhan: (24/08/2015): Have completed at least some pilot experiments
+- Carried over, Siobhan: pick the questions for presence and send them through
+- James (21/08/2015): have confirmed if we can use games lab or not
+- Steven (21/08/2015): finished design chapter
+- Siobhan (24/08/2015): to have reached out to use the Psyche labs
+- Steven (20/08/2015): relay timeline for experiment to Siobhan
+- Steven + Siobhan: (24/08/2015): Have completed at least some pilot experiments

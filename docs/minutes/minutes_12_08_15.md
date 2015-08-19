@@ -30,7 +30,7 @@ We are awaiting the results of this, due to the address on the consulting page b
 
 # Deliverables
 
-James: speak to Sonia and Patrick about Games Lab
-Siobhan: ask about using Psyche lab
-Siobhan: pick the questions for presence and send them through
-Steven (14/08/15): follow up on stats consulting
+- James: speak to Sonia and Patrick about Games Lab
+- Siobhan: ask about using Psyche lab
+- Siobhan: pick the questions for presence and send them through
+- Steven (14/08/15): follow up on stats consulting
