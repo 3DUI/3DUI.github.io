@@ -1,6 +1,8 @@
 ---
+layout: post
+title:  "Minutes for 2015-09-02"
+categories: minutes
 ---
-# Minutes for 02/09/2015
 
 ## Meeting Notes
 
@@ -9,6 +11,7 @@
 Siobhan pointed out we never confirmed these. As Siobhan did incorporate rotation, we need to get a set of tasks that test object selection, translation and rotation. 
 
 We decided on three types of tasks:
+
 - aligning task - either on a plane, in a ring or in a basket.
 - alphabet task - align letters to make a word
 - multiple object tasks - aligning multiple objects together with guides
@@ -21,6 +24,7 @@ We also discussed colours, and emphasised that Siobhan must use colours that wor
 Steven reported that pilot experiments were underway, with 3 completed and 1 on the way. James confirmed that this was enough. 
 
 Preliminary feedback from the pilots was:
+
 - lack of feedback after timed tasks
 - inspection tasks were far too easy
 
@@ -32,7 +36,7 @@ James confirmed that the project rubric would be finalised two weeks before the 
 
 ## Deliverables
 
-Steven + Siobhan + James (15/10/2015) - Finalise Rubric
-Steven + Siobhan (16/9/2015) - Present draft of all of the paper up to the results section
-Steven + Siobhan (7/9/2015) - Have started recruiting for the final experiments 
-Siobhan + Steven (7/9/2015) - Finish conducting pilots
+- Steven + Siobhan + James (15/10/2015) - Finalise Rubric
+- Steven + Siobhan (16/9/2015) - Present draft of all of the paper up to the results section
+- Steven + Siobhan (7/9/2015) - Have started recruiting for the final experiments 
+- Siobhan + Steven (7/9/2015) - Finish conducting pilots

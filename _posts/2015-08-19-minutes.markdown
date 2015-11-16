@@ -1,6 +1,8 @@
 ---
+layout: post
+title:  "Minutes for 2015-08-19"
+categories: minutes
 ---
-# Minutes for 19/08/15
 
 ## Apologies
 

@@ -1,10 +1,13 @@
 ---
+layout: post
+title:  "Minutes for 2015-09-09"
+categories: minutes
 ---
-# Minutes for 09/09/2015
 
 ## Meeting Notes
 
 ### Report back
+
 - Steve finished pilots
   - has script to interpret his results automatically
   - 40 - 50 Minutes even with distractions due to pilot being outside lab environment
@@ -32,6 +35,7 @@
 ### Suggestions
 
 ### Experiments
+
 - James okayed poster
 - stagger experiments for our own insanity, as overloading US might make us go loopy.
 - sign-up questionnaire is our demographic sheet

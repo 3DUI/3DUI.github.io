@@ -20,3 +20,6 @@
 # Ignore IntelliJ stuff
 .idea
 *.iml
+
+# Jeckyll ignore
+_site

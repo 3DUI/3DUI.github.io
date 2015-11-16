@@ -1,10 +1,13 @@
-# Minutes 12/08/15
 ---
+layout: post
+title:  "Minutes for 2015-08-12"
+categories: minutes
 ---
 
 # Venue brainstorming
 
 Since we can't use TSL, ideas for possible rooms:
+
 - Brian's room (though we want to avoid due to distruption - missing machines)
 - Convergence lab (missing machines)
 - Games lab (small, but has machines and is well speced)

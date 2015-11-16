@@ -1,7 +1,12 @@
-# Minutes for 23/09/2015
+---
+layout: post
+title:  "Minutes for 2015-09-23"
+categories: minutes
+---
 
 Meeting was cancelled due to James having a last minute meeting he was called to.
 
 In terms of progress:
+
 - Steven has finished testing 35 participants
 - Siobhan was to start her first round of full testing that afternoon

@@ -1,6 +1,8 @@
 ---
+layout: post
+title:  "Minutes for 2015-31-03"
+categories: minutes
 ---
-# Minutes for 31/03/2015
 
 ## Meeting notes
 
@@ -39,13 +41,15 @@ recommended we focus on a very specific aspect.
 * Steven: 3D rotations, small look into gender differences
 
 ## Deliverables
-7/4/2015
+Due 7/4/2015
+
 - Outline of Lit Survey
     - section headings
     - short entries
 - Core 10 papers skimmed
 - Read 5 in depth
 
-Week of the 13/4/2015
+Due week of the 13/4/2015
+
 - Core 20 papers
 - Read 10 in depth, start writing lit review

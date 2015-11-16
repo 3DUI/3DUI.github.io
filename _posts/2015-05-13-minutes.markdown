@@ -1,12 +1,15 @@
 ---
+layout: post
+title:  "Minutes for 2015-05-13"
+categories: minutes
 ---
-# Minutes for 16/04/2015
 
 ## Meeting notes
 
 Overview: James gave feedback on our proposal, and we discussed potential future issues that may arise during and after completion of our honours project.
 
 General thoughts
+
 * Happy with overall document
 * Well written
 * Well-scoped
@@ -14,17 +17,20 @@ General thoughts
 * Use surnames to identify each other. First names are too informal.
 
 Materials and Procedure Queries
+
 * High level only - in-depth is not required for this document
 * Doesn't need to be too long
 * Identify that we intend on iteratively doing pilots of the experiment get feedback and ensure actual experiments are smooth sailing
 * Mention introductory tutorial on visualisations and interfaces for visualisations
 
 Timeline Feedback
+
 * Very well outlined, but too detailed
 * Highlight that it represents both of our time.
 * Identify that we might diverge, but this is alright
 
 Misc Project Discussion
+
 * DON'T DO AN INTERNSHIP IN MID-YEAR
 * It's likely that we could both get publications out of our projects
 * We will need to work on polishing the final product if we want this to happen
@@ -32,6 +38,7 @@ Misc Project Discussion
 
 
 ## Deliverables
+
 19/05/2015
 - Submit final proposal document
   - Adding a few illustrative graphics could be useful, but don't overdo it.

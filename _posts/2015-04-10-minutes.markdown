@@ -1,6 +1,8 @@
 ---
+layout: post
+title:  "Minutes for 2015-04-10"
+categories: minutes
 ---
-# Minutes for 10/04/2015
 
 ## Meeting notes
 
@@ -18,6 +20,7 @@ experimentation.
 
 ## Deliverables
 Due 14/04/2015
+
 - Core 20 papers
 - Read 10 in depth
 - Started writing lit review

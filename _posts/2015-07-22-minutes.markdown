@@ -1,10 +1,13 @@
 ---
+layout: post
+title:  "Minutes for 2015-07-13"
+categories: minutes
 ---
-# Minutes for 13/07/2015
 
 ## Meeting Notes
 
 ### Misc announcements
+
 - Brian De Renzi has joined us as co-supervisor. He's very keen to help out and is also available to help with heuristic evaluations.
 - James notes that academics sometimes don't reply to emails and it's totally appropriate to ping them if urgent
 - Our feasibility assessments should happen within the next week to ensure we've started coding. Contact Hussein ASAP to schedule meetup.

@@ -1,6 +1,8 @@
 ---
+layout: post
+title:  "Minutes for 2015-08-07"
+categories: minutes
 ---
-# Minutes for 07/08/2015
 
 ## Meeting Notes
 

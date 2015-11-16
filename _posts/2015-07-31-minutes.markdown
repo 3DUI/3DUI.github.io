@@ -1,6 +1,8 @@
 ---
+layout: post
+title:  "Minutes for 2015-07-31"
+categories: minutes
 ---
-# Minutes for 31/07/2015
 
 ## Meeting Notes
 
@@ -13,6 +15,7 @@
 - Pilot planning ideas: TSL going to be an extention of Senior Lab, James to talk to Sonia about booking.
 
 ### Report back
+
 - Got Brian up to speed about the current state of the project
 - Discussed that the Design chapter needs to be completed, did not set date.
 - Brian suggested we do a pilot with 6/7 people. James suggested that this be a hifidelity prototype. 
@@ -23,16 +26,19 @@
 - Decided that Siobhan and Steven would colloborate on an experimental design for all the controllers to present to the stats department.
 
 ### Timeline
+
 - Noted that we're a couple weeks behind on the timeline
 - The timeline had a large amount of redundancy; needs to be redone now that we will have a larger venue for running the experiments.
 - James says that it's a good idea to have more heuristic testers; at least 3, want closer to 5.
 
 ### Exerimental software design
+
 - Agreed we want to plan for failure; if the software crashes or a participant loses data then we lose that participant.
 - Siobhan and James had a discussion about whether or not to clamp for Shadowbox. Steven said that it was closer to real use cases if the tasks aren't unclamped, Siobhan says that Shadowbox would be aimed at inexperienced users and so it's more in line to do this clamped. James says implement both.
 - In terms of data collection, it was suggested we capture enough data to provide an audit trail; that allows us to get any additional insights if the experiments don't show any differences.
 
 ### Experimental design
+
 - We discussed using MRT again. Steven looked at the timing and it looked like using MRT would take too long with everything else, make it hard to do enough tasks. Siobhan noted that we could do the SRRA at home, and do the MRT in the experiment. This seemed to work. 
 - Brian noted that it's good to ask for questionnaires immediately after the experiment is done as users tend to forget
 - Brian also suggested that we use standard HCI language to ask users to complete the tasks both quickly and accurately.
@@ -41,6 +47,7 @@
 - Next meeting decided for the 7 August at 2:15.
 
 ## Deliverables
+
 - [carried over] Siobhan (7/8/2015): find appropriate after test questionnaire
 - James (7/8/2015): talk to Sonia about using TSL as an experimental venue
 - Steven + Siobhan (3/8/2015): create an experimental design which can communicate our decisions to the stats department to send to James + Brian
