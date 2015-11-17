@@ -32,6 +32,7 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
+    margin-top: $spacing-unit / 2;
 }
 
 
@@ -82,8 +83,7 @@ h1, h2, h3, h4, h5, h6 {
     color: darkred;
     font-family: $merriweather;
     font-weight: 300;
-    //margin-bottom: -10px;
-    padding-top: $spacing-unit / 2;
+    margin-bottom: -10px;
 }
 
 
