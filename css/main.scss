@@ -1,11 +1,14 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+@import url(https://fonts.googleapis.com/css?family=Merriweather:700|Lato);
 @charset "utf-8";
 
 
 
 // Our variables
+$merriweather: 'Merriweather', serif;
+$lato: 'Lato', sans-serif;
 $base-font-family: Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
