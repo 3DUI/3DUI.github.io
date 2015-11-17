@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # Web Presence Proposal for 3DUI
 
 ## Proposal
