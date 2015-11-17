@@ -3,7 +3,7 @@ title: EVALUATING 3D MODELLING USER INTERFACES
 description: > # this means to ignore newlines until "baseurl:"
   Honours project work by Siobhan O'Donovan and Steven Rybicki evaluating the
   use of Interactive Shadows and Rotation Controllers in 3D Modelling Interfaces.
-  Supervised by Assoc. Prof. James Gain & Dr Brian DeRenzi
+  Supervised by Assoc. Prof. James Gain & Dr Brian DeRenzi.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
