@@ -12,54 +12,62 @@ layout: default
 
     <h1 class="">Context and Background</h1>
     <p>
-3D User Interfaces (3DUIs) support many important applications, including: creating virtual scenes
-for video games and movies; creating models for 3D printing and viewing 3D models of medical information.
-Despite the importance of these applications, the 3D user interfaces of these modelling packages
- have not changed much
- since their inception. While many interfaces have been proposed, most 3DUIs have not changed.
- In order to determine the strengths of different interfaces, we performed two experiments:
- </p>
- <ul>
-    <li>
-         Interactive Shadows against a traditional 3DUI with three orthographic views with three different tasks.
-    </li>
-    <li>
-         The three most prevalent controllers (Arcball, Two Axis Valuator, and Discrete Sliders) with the two types of tasks of differing difficulty.
-    </li>
-</ul>
+        3D User Interfaces (3DUIs) support many important applications, including: creating virtual scenes
+        for video games and movies; creating models for 3D printing and viewing 3D models of medical information.
+        Despite the importance of these applications, the 3D user interfaces of these modelling packages
+        have not changed much since their inception. While many interfaces have been proposed, most 3DUIs have not changed.
+        In order to determine the strengths of different interfaces, we performed two experiments:
+    </p>
+     <ul>
+        <li>
+             Interactive Shadows against a traditional 3DUI with three orthographic views with three different tasks.
+        </li>
+        <li>
+             The three most prevalent controllers (Arcball, Two Axis Valuator, and Discrete Sliders) with the two types of tasks of differing difficulty.
+        </li>
+    </ul>
     <div class="img-wrapper">
         <img src="images/lung.png" width="500px">
     </div>
 
 
-Below we present a summary of our goals and findings. Please see documents for our full proposal and reports.
-  <h1 class="">Project Goals</h1>
+    <p>Below we present a summary of our goals and findings. Please see documents for our full proposal and reports.</p>
+    <h1 class="">Project Goals</h1>
 
-  We aim to determine whether:
+    <p>We aim to determine whether:</p>
   
-  <ul>
+    <ul>
       <li>Interactive Shadows performs better than traditional multi-view 3DUIs</li>
-    <img src="images/standard.png" width="300px">
-    <img src="images/shadowbox.png" width="300px">
+    <div class="img-wrapper">
+        <img src="images/standard.png" width="300px">
+        <img src="images/shadowbox.png" width="300px">
+    </div>
 
       <li>One of the methods of rotation tested is better suited to certain class of tasks than the others</li>
-    <img src="images/controllers.png" width="500px">
-  </ul>
-  <h1 class="">Results</h1>
+    <div class="img-wrapper">
+        <img src="images/controllers.png" width="340px">
+    </div>
+    </ul>
+    <h1 class="">Results</h1>
 
   <h2>Interactive Shadows Evaluation Findings</h2>
 
   <p>
-  Interactive shadows were found to be significantly better in terms of distance accuracy for a task involving distance estimations. This suggests that the interactive shadows interface might help users approximate relative object positioning.
+    Interactive shadows were found to be significantly better in terms of distance accuracy for a task involving distance estimations.
+    This suggests that the interactive shadows interface might help users approximate relative object positioning.
   </p>
-    <img src="images/shiv_graphs.png" width="600px">
+    <div class="img-wrapper">
+        <img src="images/shiv_graphs.png" width="600px">
+    </div>
 
 
   <h2 class="">Rotation Evaluation Findings</h2>
   <p>
   We found the Discrete Sliders to be more accurate for simple matching tasks but slower for complex matching, and inspection tasks. This suggests that  Discrete Sliders are most appropriate in situations where fine-grained accuracy is valued over speed, while for other tasks, the other two controllers are better suited.
   </p>
+    <div class="img-wrapper">
     <img src="images/steven_graphs.png" width="600px">
+    </div>
 
   <h1 class="">Resources</h1>
   <h2 class="">Documents</h2>
